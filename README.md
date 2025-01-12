@@ -28,5 +28,5 @@ Ce projet JavaCard implémente une application de terminal bancaire avec une ges
 
 1. **Clonez le projet**
    ```bash
-   git clone https://github.com/IslemChammakhi/java-card-terminal-bancaire.git
+   git clone https://github.com/Islem-Chammakhi/JavaCard-project.git
    cd java-card-terminal-bancaire
